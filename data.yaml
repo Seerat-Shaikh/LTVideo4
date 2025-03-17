@@ -1,0 +1,8 @@
+kpt_shape:
+- 15
+- 3
+names:
+  0: Human
+  1: Human1
+path: .
+train: train.txt
